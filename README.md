@@ -30,5 +30,13 @@ Loan Eligibility is defined as set of criteria basis which a financial instituti
 | Property_Area | Urban/ Semi Urban/ Rural | 
 | Loan_Status | Loan approved (Y/N) | 
 
+## What is Machine Learning ?
+Machine Learning is a branch of study that makes use of algorithms for the computer to learn from the data and improve its accuracy by itself through experience.
+
+## Types Of Machine Learning 
+- **Supervised learning**: The machine is trained on labeled data, and learns to predict the output for new data based on the labels. For example, a supervised learning algorithm could be trained to classify images of cats and dogs.
+- **Unsupervised learning**: The machine is trained on unlabeled data, and learns to find patterns in the data. For example, an unsupervised learning algorithm could be used to cluster customer data into groups based on their spending habits.
+**Reinforcement learning**: The machine learns to make decisions by trial and error. It is given rewards for taking actions that lead to desired outcomes, and punishments for taking actions that lead to undesired outcomes. For example, a reinforcement learning algorithm could be used to train a self-driving car to navigate a road safely.
+
 
 
