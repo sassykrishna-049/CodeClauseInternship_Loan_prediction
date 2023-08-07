@@ -1,6 +1,6 @@
 # CodeClauseInternship_Loan_prediction
 
-**This is done with regards to the Internship Project Allocation
+**This is done with regards to the Internship Project Allocation**
 
 Dataset Link : https://www.kaggle.com/datasets/leonbora/analytics-vidhya-loan-prediction
 
